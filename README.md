@@ -28,6 +28,77 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.3%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 32.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 94 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                52 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌃 Evening                90 commits          █████████░░░░░░░░░░░░░░░░   36.44 % 
+🌙 Night                  105 commits         ███████████░░░░░░░░░░░░░░   42.51 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Tuesday                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Sunday                   39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     22 repos            ███████████████████░░░░░░   75.86 % 
+Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+
+
+ Last Updated on 19/05/2024 15:46:05 UTC
 <!--END_SECTION:waka-->
 
 
