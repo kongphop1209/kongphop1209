@@ -28,9 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.3%20thousand%20lines%20of%20code-blue)
 
@@ -38,7 +36,7 @@ const Kongphop = {
 
 > 📦 32.6 kB Used in GitHub's Storage 
  > 
-> 🏆 94 Contributions in the Year 2024
+> 🏆 96 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,45 +44,6 @@ const Kongphop = {
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                52 commits          █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-🌃 Evening                92 commits          █████████░░░░░░░░░░░░░░░░   36.95 % 
-🌙 Night                  105 commits         ███████████░░░░░░░░░░░░░░   42.17 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Tuesday                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Wednesday                47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Thursday                 16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Saturday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Sunday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -98,7 +57,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2024 16:15:51 UTC
+ Last Updated on 19/05/2024 17:12:02 UTC
 <!--END_SECTION:waka-->
 
 
