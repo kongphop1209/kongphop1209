@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -89,17 +89,17 @@ Windows                  5 mins              ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     22 repos            ███████████████████░░░░░░   75.86 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 20/05/2024 05:14:35 UTC
+ Last Updated on 20/05/2024 06:18:16 UTC
 <!--END_SECTION:waka-->
 
 
