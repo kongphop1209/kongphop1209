@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -73,17 +73,20 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-CSS                      4 mins              ███████████████████████░░   90.60 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+CSS                      2 hrs 11 mins       █████████████████░░░░░░░░   67.38 % 
+JavaScript               56 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react-train              5 mins              █████████████████████████   100.00 % 
+react-train              3 hrs 13 mins       █████████████████████████   99.20 % 
+giantic-fontend          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2024 17:14:07 UTC
+ Last Updated on 20/05/2024 18:17:30 UTC
 <!--END_SECTION:waka-->
 
 
