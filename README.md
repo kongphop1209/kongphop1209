@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -37,6 +37,8 @@ const Kongphop = {
 **🐱 My GitHub Data** 
 
 > 📦 32.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,20 +73,21 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-CSS                      2 hrs 11 mins       █████████████████░░░░░░░░   67.38 % 
-JavaScript               56 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+CSS                      2 hrs 50 mins       ██████████████░░░░░░░░░░░   56.14 % 
+JavaScript               2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.32 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react-train              3 hrs 13 mins       █████████████████████████   99.20 % 
-giantic-fontend          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+react-train              3 hrs 15 mins       ████████████████░░░░░░░░░   64.24 % 
+giantic-fontend          1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   35.76 % 
 
 💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +103,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2024 17:12:28 UTC
+ Last Updated on 21/05/2024 18:17:16 UTC
 <!--END_SECTION:waka-->
 
 
