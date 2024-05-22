@@ -28,15 +28,17 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 33.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,20 +50,20 @@ const Kongphop = {
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-🌃 Evening                106 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
-🌙 Night                  115 commits         ██████████░░░░░░░░░░░░░░░   41.82 % 
+🌆 Daytime                54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+🌃 Evening                106 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌙 Night                  117 commits         ███████████░░░░░░░░░░░░░░   42.24 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Wednesday                56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Sunday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Monday                   58 commits          █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Wednesday                56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Thursday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Friday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Sunday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 ```
 
 
@@ -102,7 +104,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2024 19:10:46 UTC
+ Last Updated on 22/05/2024 20:14:31 UTC
 <!--END_SECTION:waka-->
 
 
