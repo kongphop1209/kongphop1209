@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -38,7 +38,7 @@ const Kongphop = {
 
 > 📦 33.0 kB Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2024
+> 🏆 126 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,7 +104,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2024 16:18:26 UTC
+ Last Updated on 23/05/2024 17:14:02 UTC
 <!--END_SECTION:waka-->
 
 
