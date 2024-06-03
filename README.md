@@ -38,6 +38,8 @@ const Kongphop = {
 
 > 📦 33.2 kB Used in GitHub's Storage 
  > 
+> 🏆 152 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -102,7 +104,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2024 03:15:41 UTC
+ Last Updated on 03/06/2024 04:18:14 UTC
 <!--END_SECTION:waka-->
 
 
