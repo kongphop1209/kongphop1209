@@ -73,17 +73,16 @@ Sunday                   58 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-CSS                      16 mins             ███████████████████░░░░░░   74.26 % 
-JavaScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Gigantic-Mall            22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +98,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2024 17:13:25 UTC
+ Last Updated on 18/06/2024 18:18:56 UTC
 <!--END_SECTION:waka-->
 
 
