@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,7 +38,7 @@ const Kongphop = {
 
 > 📦 33.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 193 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,20 +73,20 @@ Sunday                   75 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-CSS                      1 hr 45 mins        ██████████████░░░░░░░░░░░   57.74 % 
-JavaScript               1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   39.70 % 
-HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+CSS                      1 hr 45 mins        ██████████████░░░░░░░░░░░   57.11 % 
+JavaScript               1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.36 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Design-front             3 hrs 3 mins        █████████████████████████   100.00 % 
+Design-front             3 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2024 17:12:49 UTC
+ Last Updated on 16/07/2024 18:18:43 UTC
 <!--END_SECTION:waka-->
 
 
