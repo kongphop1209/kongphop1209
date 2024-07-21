@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,8 +37,6 @@ const Kongphop = {
 **🐱 My GitHub Data** 
 
 > 📦 33.6 kB Used in GitHub's Storage 
- > 
-> 🏆 205 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,21 +71,21 @@ Sunday                   92 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-CSS                      1 hr 58 mins        ███████████████░░░░░░░░░░   58.77 % 
-JavaScript               1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   39.38 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+CSS                      1 hr 58 mins        █████████████░░░░░░░░░░░░   50.31 % 
+JavaScript               1 hr 52 mins        ████████████░░░░░░░░░░░░░   48.11 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Gigantic-Mall            1 hr 47 mins        █████████████░░░░░░░░░░░░   53.38 % 
-Design-front             1 hr 33 mins        ████████████░░░░░░░░░░░░░   46.62 % 
+Gigantic-Mall            2 hrs 21 mins       ███████████████░░░░░░░░░░   60.10 % 
+Design-front             1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   39.90 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -103,7 +101,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2024 17:11:37 UTC
+ Last Updated on 21/07/2024 18:17:09 UTC
 <!--END_SECTION:waka-->
 
 
