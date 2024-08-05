@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -38,7 +38,7 @@ const Kongphop = {
 
 > 📦 34.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 210 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,20 +73,17 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               33 mins             ██████████████░░░░░░░░░░░   54.48 % 
-CSS                      16 mins             ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-HTML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+JavaScript               1 hr 3 mins         █████████████████░░░░░░░░   66.27 % 
+CSS                      32 mins             ████████░░░░░░░░░░░░░░░░░   33.73 % 
 
 🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-web              31 mins             █████████████░░░░░░░░░░░░   50.68 % 
-Gigantic-Mall            30 mins             ████████████░░░░░░░░░░░░░   49.32 % 
+profile-web              1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -102,7 +99,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2024 17:13:44 UTC
+ Last Updated on 05/08/2024 18:20:06 UTC
 <!--END_SECTION:waka-->
 
 
