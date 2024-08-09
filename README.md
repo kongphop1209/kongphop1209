@@ -28,7 +28,7 @@ const Kongphop = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to learn new things Developers have had and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,17 +73,19 @@ Sunday                   95 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               49 mins             ██████████████████░░░░░░░   72.03 % 
-CSS                      19 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+JavaScript               49 mins             ██████████████████░░░░░░░   70.20 % 
+CSS                      19 mins             ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-profile-web              1 hr 8 mins         █████████████████████████   100.00 % 
+profile-web              1 hr 8 mins         ████████████████████████░   97.10 % 
+login-prep               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +101,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2024 17:13:52 UTC
+ Last Updated on 09/08/2024 18:19:14 UTC
 <!--END_SECTION:waka-->
 
 
