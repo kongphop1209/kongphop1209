@@ -36,7 +36,7 @@ const Kongphop = {
 
 **🐱 My GitHub Data** 
 
-> 📦 36.0 kB Used in GitHub's Storage 
+> 📦 35.8 kB Used in GitHub's Storage 
  > 
 > 🏆 432 Contributions in the Year 2024
  > 
@@ -98,7 +98,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2024 06:24:43 UTC
+ Last Updated on 11/12/2024 07:17:34 UTC
 <!--END_SECTION:waka-->
 
 
