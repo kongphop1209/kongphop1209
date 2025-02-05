@@ -44,7 +44,7 @@ const Kongphop = {
  > 
 > 📜 7 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -97,7 +97,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 17:13:57 UTC
+ Last Updated on 05/02/2025 18:21:46 UTC
 <!--END_SECTION:waka-->
 
 
