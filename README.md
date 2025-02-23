@@ -38,8 +38,6 @@ const Kongphop = {
 
 > 📦 24.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -97,7 +95,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2025 18:19:25 UTC
+ Last Updated on 23/02/2025 19:12:05 UTC
 <!--END_SECTION:waka-->
 
 
