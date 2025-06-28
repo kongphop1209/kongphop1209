@@ -83,9 +83,9 @@ const Kongphop = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2015%20mins-blue)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Kongphop1209)
+      ![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2015%20mins-blue)
+      
+      ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Kongphop1209)
 
 **🐱 My GitHub Data** 
 
