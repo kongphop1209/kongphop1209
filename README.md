@@ -83,6 +83,8 @@ const Kongphop = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
@@ -150,7 +152,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2025 17:17:27 UTC
+ Last Updated on 01/07/2025 18:25:48 UTC
 <!--END_SECTION:waka-->
 
 ---
