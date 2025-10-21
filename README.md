@@ -28,10 +28,8 @@ const Kongphop = {
   tools: ["Docker", "Firebase", "Supabase", "Vercel", "Git", "Figma"],
   databases: ["PostgreSQL", "MongoDB", "Firebase Firestore"],
   architecture: [
-    "Microservices Architecture",
     "Clean Architecture",
     "Component-based Design",
-    "Server-Side Rendering (SSR)",
     "API Integration",
   ],
   currentFocus: "Building scalable full-stack apps with modern tech",
