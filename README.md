@@ -22,22 +22,20 @@ const Kongphop = {
   pronouns: "He/Him",
   location: "Thailand 🇹🇭",
   languages: ["Thai", "English"],
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  tools: ["React", "Flutter", "Node.js", "HTML5", "CSS3"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL"],
+  code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
+  frameworks: ["React", "Next.js", "Node.js", "Flutter", "Spring WebFlux", "FastAPI"],
+  tools: ["Docker", "Firebase", "Supabase", "Vercel", "Git", "Figma"],
+  databases: ["PostgreSQL", "MongoDB", "Firebase Firestore"],
+  devOps: ["Kafka", "Kubernetes", "Linux", "CI/CD"],
   architecture: [
-    "Component-based Architecture", 
-    "Single Page Applications (SPA)", 
+    "Microservices Architecture",
+    "Clean Architecture",
+    "Component-based Design",
     "Server-Side Rendering (SSR)",
-    "Design System Patterns"
+    "API Integration",
   ],
-  techCommunities: {
-    coorganizer: "Seeking opportunities",
-    speaker: "Thai & English",
-    mentor: "Mae Fah Luang University"
-  },
-  currentChallenge: "Completing 60DaysOfCode challenge focused on React & Mobile Development",
-  funFact: "I love connecting with developers from around the world! 🌍"
+  currentFocus: "Building scalable full-stack apps with modern tech",
+  funFact: "I love turning ideas into beautiful, functional web apps 🚀"
 };
 ```
 
