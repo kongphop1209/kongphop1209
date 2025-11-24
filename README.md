@@ -128,9 +128,9 @@ const Kongphop = {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -183,7 +183,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2025 14:19:34 UTC
+ Last Updated on 24/11/2025 15:22:05 UTC
 <!--END_SECTION:waka-->
 
 ---
