@@ -3,8 +3,6 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ### 🎓 Software Engineering Student at [Mae Fah Luang University](http://www.unb.br) <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25">
-### 💼 Developer Consultant at [ThoughtWorks](https://www.thoughtworks.com) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
-
 ---
 
 ## 🌐 Connect with me
