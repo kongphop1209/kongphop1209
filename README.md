@@ -111,6 +111,8 @@ const Kongphop = {
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2015%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.09%20million%20lines%20of%20code-blue)
@@ -178,7 +180,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 17:17:42 UTC
+ Last Updated on 02/01/2026 18:28:41 UTC
 <!--END_SECTION:waka-->
 
 ---
