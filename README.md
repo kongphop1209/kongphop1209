@@ -111,8 +111,6 @@ const Kongphop = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.57%20million%20lines%20of%20code-blue?style=flat)
@@ -129,45 +127,6 @@ const Kongphop = {
  > 
 > 🔑 8 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-🌆 Daytime                621 commits         ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-🌃 Evening                1080 commits        ████████████░░░░░░░░░░░░░   47.43 % 
-🌙 Night                  527 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Tuesday                  372 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Wednesday                299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Thursday                 394 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Friday                   204 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Saturday                 320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Sunday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -181,7 +140,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 14:37:45 UTC
+ Last Updated on 28/05/2026 18:11:19 UTC
 <!--END_SECTION:waka-->
 
 ---
